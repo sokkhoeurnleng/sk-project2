@@ -67,4 +67,13 @@ nav {
 ### Link
 CSS framework [w3school](https://www.w3schools.com/)
 
+## Image dashboard
+![Dashboard](./unnamed.jpg)
+
+
+## Badge
+[![Button]](https://img.shields.io/badge/Visit-Website-blue)
+
+
+
 
